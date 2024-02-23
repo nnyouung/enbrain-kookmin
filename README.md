@@ -547,7 +547,8 @@ Recyclerview
 **개발 기간: 2023년 월 일 요일 ~ 월 일 요일**
 <details>
 <summary>다음 영화 데이터 크롤링 (하은영)</summary>
-  ## 다음 영화에서 영화 제목, 줄거리, 장르를 추출하여 가공
+
+## 다음 영화에서 영화 제목, 줄거리, 장르를 추출하여 가공
 
 ### 기능 설명 및 코드
 
@@ -557,7 +558,7 @@ Recyclerview
 
 - 존재하지 않는 페이지가 있을 수도 있으므로, head에서 따오기
     
-    ![스크린샷 2023-05-10 오후 2.57.21.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/de6a9e88-4865-45d4-a901-38d34aebbc8a/23190727-b717-4f1b-abd8-3d099327ca87/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-05-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.57.21.png)
+![스크린샷 2023-05-10 오후 2.57.21.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/de6a9e88-4865-45d4-a901-38d34aebbc8a/23190727-b717-4f1b-abd8-3d099327ca87/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-05-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.57.21.png)
     
 
 ```python
@@ -1223,7 +1224,7 @@ after.html
 
 <br>
 
-### 4.WordDictionary <a href="https://docs.google.com/presentation/d/1h7AJ3oC5FaML3LA510PhZqCrAyvJwMBJZ9be1RgL_80/edit#slide=id.g2381826a579_2_75">(Presentation)</a>
+### 4. WordDictionary <a href="https://docs.google.com/presentation/d/1h7AJ3oC5FaML3LA510PhZqCrAyvJwMBJZ9be1RgL_80/edit#slide=id.g2381826a579_2_75">(Presentation)</a>
 **개발 기간: 2023년 월 일 수요일 ~ 월 일 요일**
 
 
