@@ -544,7 +544,6 @@ Recyclerview
 <br>
 
 ### 2. Word2Vec을 이용한 추천시스템
-**개발 기간: 2023년 월 일 요일 ~ 월 일 요일**
 <details>
 <summary>다음 영화 데이터 크롤링 (하은영)</summary>
 
