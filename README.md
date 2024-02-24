@@ -1218,11 +1218,11 @@ after.html
 
 <br>
 
-### 3. bert를 이용한 유사한 음악 동영상 추천 <a href="https://docs.google.com/presentation/d/1s2oMH_I8BhrLWoHcPZ7lIQ9P8rGuU9aZtOE5QWU9rIo/edit?pli=1#slide=id.p1">(Presentation)</a>
+### 3. bert를 이용한 유사한 음악 동영상 추천 -> <a href="https://docs.google.com/presentation/d/1s2oMH_I8BhrLWoHcPZ7lIQ9P8rGuU9aZtOE5QWU9rIo/edit?pli=1#slide=id.p1">Presentation</a>
 
 <br>
 
-### 4. WordDictionary <a href="https://docs.google.com/presentation/d/1h7AJ3oC5FaML3LA510PhZqCrAyvJwMBJZ9be1RgL_80/edit#slide=id.g2381826a579_2_75">(Presentation)</a>
+### 4. WordDictionary -> <a href="https://docs.google.com/presentation/d/1h7AJ3oC5FaML3LA510PhZqCrAyvJwMBJZ9be1RgL_80/edit#slide=id.g2381826a579_2_75">Presentation</a>
 
 
 
